@@ -1,4 +1,6 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 5d45acdcf8f0ec4da42cbc5d16795df05f7a0960
+👋 Hi, I’m Seungsoon—a data enthusiast and analyst with a passion for turning raw data into actionable insights.
+📊 Skilled in Python, R, SQL, Tableau, and machine learning algorithms.
+🔍 My projects focus on predictive modeling, data visualization, and automating data workflows.
+🚀 Currently, I’m diving deeper into AI-driven analytics and enhancing decision-making through data.
+🌱 Fun fact: I love exploring innovative ways to tell stories through data visualization.
+💼 Connect with me on LinkedIn or check out my portfolio here
