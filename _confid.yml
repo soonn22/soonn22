@@ -3,7 +3,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my Jekyll site.
   This is a simple and customizable site powered by Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourdomain.com" # the base hostname & protocol for your site
+url: "https://github.com/soonn22" # the base hostname & protocol for your site
 theme: minima
 
 # Build settings
