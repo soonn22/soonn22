@@ -21,7 +21,7 @@ About Seungsoon Park
 
 Let's collaborate!
 ---------------------------------------------------------------
-- [Website](https://sites.google.com/view/seungsoonpark/home)
+- [Portfolio](https://sites.google.com/view/seungsoonpark/home)
 - [Linkedin](https://www.linkedin.com/in/soonn22/)
 - [Kaggle](https://www.kaggle.com/seungsoonpark)
 
