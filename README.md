@@ -18,6 +18,12 @@ About Seungsoon Park
 
 💪 Riding a bike, Swimming every morning, hiking and tent camping with family (Excited to take 2 years old to the nature in 2025 :evergreen_tree:	)
 
+🤔 Learning Plotly Dash and Power BI
+
+Ongoing Projects
+---------------------------------------------------------------
+Building production model of wheat.
+
 
 Let's collaborate!
 ---------------------------------------------------------------
